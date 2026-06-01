@@ -1,0 +1,98 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="118" y1="32" x2="1070" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816" />
+      <stop offset="0.56" stop-color="#0B1020" />
+      <stop offset="1" stop-color="#060A14" />
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(210 138) rotate(42) scale(270 220)">
+      <stop stop-color="#2563EB" stop-opacity="0.75" />
+      <stop offset="0.55" stop-color="#2563EB" stop-opacity="0.22" />
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(940 500) rotate(-26) scale(320 220)">
+      <stop stop-color="#06B6D4" stop-opacity="0.65" />
+      <stop offset="0.5" stop-color="#06B6D4" stop-opacity="0.16" />
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glowGreen" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(560 580) rotate(-12) scale(280 160)">
+      <stop stop-color="#22C55E" stop-opacity="0.35" />
+      <stop offset="1" stop-color="#22C55E" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="mark" x1="160" y1="164" x2="330" y2="334" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB" />
+      <stop offset="0.5" stop-color="#6366F1" />
+      <stop offset="1" stop-color="#06B6D4" />
+    </linearGradient>
+    <linearGradient id="ring" x1="854" y1="224" x2="1018" y2="444" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB" />
+      <stop offset="0.45" stop-color="#6366F1" />
+      <stop offset="1" stop-color="#22C55E" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect width="1200" height="630" fill="url(#glowBlue)" />
+  <rect width="1200" height="630" fill="url(#glowCyan)" />
+  <rect width="1200" height="630" fill="url(#glowGreen)" />
+
+  <g opacity="0.18" stroke="white">
+    <circle cx="158" cy="108" r="2" fill="white" />
+    <circle cx="1040" cy="98" r="2" fill="white" />
+    <circle cx="1066" cy="542" r="2" fill="white" />
+    <circle cx="124" cy="522" r="2" fill="white" />
+    <path d="M126 120H382" stroke-width="1.2" />
+    <path d="M816 520H1068" stroke-width="1.2" />
+  </g>
+
+  <g transform="translate(84 95)">
+    <rect x="0" y="0" width="150" height="150" rx="42" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.12)"/>
+    <rect x="16" y="16" width="118" height="118" rx="32" fill="url(#mark)"/>
+    <path d="M50 42H102V56H82V108H66V56H50V42Z" fill="white"/>
+    <circle cx="114" cy="42" r="7" fill="#22C55E" />
+    <circle cx="38" cy="112" r="5" fill="#06B6D4" />
+  </g>
+
+  <g transform="translate(280 118)">
+    <text x="0" y="0" fill="#F8FAFC" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="-3">Thenam</text>
+    <text x="2" y="48" fill="rgba(248,250,252,0.72)" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="4">SOFTWARE SOLUTIONS</text>
+    <text x="0" y="148" fill="#F8FAFC" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="44" font-weight="600" letter-spacing="-1.4">Engineering intelligent</text>
+    <text x="0" y="196" fill="#F8FAFC" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="44" font-weight="600" letter-spacing="-1.4">digital ecosystems.</text>
+    <text x="0" y="252" fill="rgba(226,232,240,0.88)" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="400">AI-first product studio for software, automation,</text>
+    <text x="0" y="284" fill="rgba(226,232,240,0.88)" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="400">design systems, IoT and launch-ready experiences.</text>
+  </g>
+
+  <g transform="translate(280 430)">
+    <rect x="0" y="0" width="160" height="48" rx="24" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.1)"/>
+    <circle cx="24" cy="24" r="5" fill="#22C55E" />
+    <text x="40" y="31" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="600">AI-first studio</text>
+
+    <rect x="176" y="0" width="202" height="48" rx="24" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.1)"/>
+    <circle cx="200" cy="24" r="5" fill="#06B6D4" />
+    <text x="216" y="31" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="600">Product engineering</text>
+
+    <rect x="394" y="0" width="174" height="48" rx="24" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.1)"/>
+    <circle cx="418" cy="24" r="5" fill="#6366F1" />
+    <text x="434" y="31" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="600">Launch fast</text>
+  </g>
+
+  <g transform="translate(840 180)">
+    <circle cx="146" cy="146" r="108" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.1)" stroke-width="2"/>
+    <circle cx="146" cy="146" r="78" fill="none" stroke="url(#ring)" stroke-width="14" stroke-linecap="round" opacity="0.95"/>
+    <circle cx="146" cy="146" r="48" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.12)"/>
+    <path d="M146 110L176 146L146 182L116 146L146 110Z" fill="#F8FAFC" opacity="0.95"/>
+    <circle cx="56" cy="120" r="8" fill="#06B6D4"/>
+    <circle cx="236" cy="90" r="8" fill="#6366F1"/>
+    <circle cx="250" cy="206" r="8" fill="#22C55E"/>
+    <circle cx="72" cy="236" r="8" fill="#2563EB"/>
+    <path d="M64 122H116" stroke="rgba(255,255,255,0.28)" stroke-width="2" />
+    <path d="M186 104L228 94" stroke="rgba(255,255,255,0.28)" stroke-width="2" />
+    <path d="M188 188L242 204" stroke="rgba(255,255,255,0.28)" stroke-width="2" />
+    <path d="M116 190L78 228" stroke="rgba(255,255,255,0.28)" stroke-width="2" />
+  </g>
+
+  <g transform="translate(840 448)">
+    <text x="0" y="0" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="3">CHENNAI · INDIA</text>
+    <text x="0" y="34" fill="rgba(226,232,240,0.82)" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="400">Premium software, automation and AI systems.</text>
+  </g>
+</svg>
