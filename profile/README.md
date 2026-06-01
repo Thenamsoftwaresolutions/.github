@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../assets/thenam-logo.png" alt="Thenam Software Solutions" width="100" />
+<img src="../assets/thenam-logo.png" alt="Thenam Software Solutions" width="260" />
 
 # Thenam Software Solutions
 
