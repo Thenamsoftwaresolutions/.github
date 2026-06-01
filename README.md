@@ -34,7 +34,7 @@ An AI-first product studio building premium software, automation<br/>and intelli
 <div align="center">
 
 <a href="https://thenamsoftwaresolutions.com">
-  <img src="public/thenam-card.png" alt="Thenam Software Solutions — Engineering Intelligent Digital Ecosystems" width="800" />
+  <img src="assets/thenam-card.png" alt="Thenam Software Solutions — Engineering Intelligent Digital Ecosystems" width="800" />
 </a>
 
 </div>
@@ -308,22 +308,6 @@ AI & ML        █░░░░ 1
 AI / Hardware  █░░░░ 1
 Automation     █░░░░ 1
 ```
-
----
-
-## 🖼️ Studio Showcase
-
-<div align="center">
-
-| | | |
-|:---:|:---:|:---:|
-| <img src="assets/showcase-dashboard.jpg" width="250" /><br/><sub>**Dashboard Design**</sub> | <img src="assets/showcase-code.jpg" width="250" /><br/><sub>**Engineering**</sub> | <img src="assets/showcase-product.jpg" width="250" /><br/><sub>**Product Craft**</sub> |
-| <img src="assets/showcase-architecture.jpg" width="250" /><br/><sub>**System Architecture**</sub> | <img src="assets/showcase-mobile.jpg" width="250" /><br/><sub>**Mobile Experiences**</sub> | <img src="assets/showcase-lab.jpg" width="250" /><br/><sub>**Innovation Lab**</sub> |
-| <img src="assets/showcase-brand.jpg" width="250" /><br/><sub>**Brand Identity**</sub> | <img src="assets/showcase-analytics.jpg" width="250" /><br/><sub>**Analytics & Insights**</sub> | <img src="assets/showcase-workspace.jpg" width="250" /><br/><sub>**Studio Workspace**</sub> |
-
-</div>
-
----
 
 ## 🧰 Tech Stack
 
