@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/thenam-logo.png" alt="Thenam Software Solutions" width="100" />
+<img src="../../assets/thenam-logo.png" alt="Thenam Software Solutions" width="100" />
 
 # Thenam Software Solutions
 
@@ -34,7 +34,7 @@ An AI-first product studio building premium software, automation<br/>and intelli
 <div align="center">
 
 <a href="https://thenamsoftwaresolutions.com">
-  <img src="assets/thenam-card.png" alt="Thenam Software Solutions — Engineering Intelligent Digital Ecosystems" width="800" />
+  <img src="../assets/thenam-card.png" alt="Thenam Software Solutions — Engineering Intelligent Digital Ecosystems" width="800" />
 </a>
 
 </div>
@@ -73,7 +73,7 @@ An AI-first product studio building premium software, automation<br/>and intelli
 ### 🧠 Intelligence Layer
 
 <div align="center">
-  <img src="assets/cat-intelligence.jpg" alt="Intelligence Services" width="700" />
+  <img src="../assets/cat-intelligence.jpg" alt="Intelligence Services" width="700" />
 </div>
 
 | # | Service | Description | Key Capabilities | Metrics |
@@ -85,7 +85,7 @@ An AI-first product studio building premium software, automation<br/>and intelli
 ### ⚙️ Engineering Layer
 
 <div align="center">
-  <img src="assets/cat-engineering.jpg" alt="Engineering Services" width="700" />
+  <img src="../assets/cat-engineering.jpg" alt="Engineering Services" width="700" />
 </div>
 
 | # | Service | Description | Key Capabilities | Metrics |
@@ -97,7 +97,7 @@ An AI-first product studio building premium software, automation<br/>and intelli
 ### 🔌 Edge & Hardware Layer
 
 <div align="center">
-  <img src="assets/cat-edge.jpg" alt="Edge & Hardware Services" width="700" />
+  <img src="../assets/cat-edge.jpg" alt="Edge & Hardware Services" width="700" />
 </div>
 
 | # | Service | Description | Key Capabilities | Metrics |
@@ -110,7 +110,7 @@ An AI-first product studio building premium software, automation<br/>and intelli
 ### 🎨 Design & Growth Layer
 
 <div align="center">
-  <img src="assets/cat-design.jpg" alt="Design & Growth Services" width="700" />
+  <img src="../assets/cat-design.jpg" alt="Design & Growth Services" width="700" />
 </div>
 
 | # | Service | Description | Key Capabilities |
@@ -121,7 +121,7 @@ An AI-first product studio building premium software, automation<br/>and intelli
 ### 🔬 Innovation & Ecosystem Layer
 
 <div align="center">
-  <img src="assets/cat-ecosystem.jpg" alt="Innovation & Ecosystem" width="700" />
+  <img src="../assets/cat-ecosystem.jpg" alt="Innovation & Ecosystem" width="700" />
 </div>
 
 | # | Service | Description | Key Capabilities |
@@ -140,7 +140,7 @@ An AI-first product studio building premium software, automation<br/>and intelli
 ### 🛒 Zayamazone — *Premium E-commerce Platform*
 
 <div align="center">
-  <img src="assets/zaymazone.png" alt="Zayamazone — Premium E-commerce Platform" width="700" />
+  <img src="../assets/zaymazone.png" alt="Zayamazone — Premium E-commerce Platform" width="700" />
 </div>
 
 | Category | Type | Year | Key Results |
@@ -156,7 +156,7 @@ An AI-first product studio building premium software, automation<br/>and intelli
 ### 🏠 RootnSpace — *Hostel & Residence Management*
 
 <div align="center">
-  <img src="assets/rootnspace.png" alt="RootnSpace — Hostel & Residence Management" width="700" />
+  <img src="../assets/rootnspace.png" alt="RootnSpace — Hostel & Residence Management" width="700" />
 </div>
 
 | Category | Type | Year | Key Results |
@@ -172,7 +172,7 @@ An AI-first product studio building premium software, automation<br/>and intelli
 ### 🏡 Zara AI — *AI Home Automation*
 
 <div align="center">
-  <img src="assets/zara-ai.png" alt="Zara AI — AI Home Automation" width="700" />
+  <img src="../assets/zara-ai.png" alt="Zara AI — AI Home Automation" width="700" />
 </div>
 
 | Category | Type | Year | Key Results |
@@ -188,7 +188,7 @@ An AI-first product studio building premium software, automation<br/>and intelli
 ### 🏙️ Chennai Tales — *Editorial Brand Platform*
 
 <div align="center">
-  <img src="assets/chennai-tales.png" alt="Chennai Tales — Editorial Brand Platform" width="700" />
+  <img src="../assets/chennai-tales.png" alt="Chennai Tales — Editorial Brand Platform" width="700" />
 </div>
 
 | Category | Type | Year | Key Results |
@@ -204,7 +204,7 @@ An AI-first product studio building premium software, automation<br/>and intelli
 ### 👔 TT Dry Cleaning — *Booking & Operations Platform*
 
 <div align="center">
-  <img src="assets/tt-dry-cleaning.png" alt="TT Dry Cleaning — Booking & Operations" width="700" />
+  <img src="../assets/tt-dry-cleaning.png" alt="TT Dry Cleaning — Booking & Operations" width="700" />
 </div>
 
 | Category | Type | Year | Key Results |
@@ -220,7 +220,7 @@ An AI-first product studio building premium software, automation<br/>and intelli
 ### 🍽️ TastyLens — *AR-Powered Food Ordering*
 
 <div align="center">
-  <img src="assets/tast_lens.png" alt="TastyLens — AR-Powered Food Ordering" width="700" />
+  <img src="../assets/tast_lens.png" alt="TastyLens — AR-Powered Food Ordering" width="700" />
 </div>
 
 | Category | Type | Year | Key Results |
@@ -236,7 +236,7 @@ An AI-first product studio building premium software, automation<br/>and intelli
 ### 💰 FinEcho — *AI Personal Finance*
 
 <div align="center">
-  <img src="assets/finecho.png" alt="FinEcho — AI Personal Finance" width="700" />
+  <img src="../assets/finecho.png" alt="FinEcho — AI Personal Finance" width="700" />
 </div>
 
 | Category | Type | Year | Key Results |
@@ -252,7 +252,7 @@ An AI-first product studio building premium software, automation<br/>and intelli
 ### 🌾 AgriSmart — *Smart Agriculture IoT*
 
 <div align="center">
-  <img src="assets/agrismart.png" alt="AgriSmart — Smart Agriculture IoT" width="700" />
+  <img src="../assets/agrismart.png" alt="AgriSmart — Smart Agriculture IoT" width="700" />
 </div>
 
 | Category | Type | Year | Key Results |
@@ -268,24 +268,24 @@ An AI-first product studio building premium software, automation<br/>and intelli
 
 | # | Project | Preview | Category | Type | Year | Description |
 |:---:|:---|:---:|:---:|:---:|:---:|:---|
-| 01 | **Zayamazone** | <img src="assets/zaymazone.png" width="120" /> | E-commerce | B2C | 2025 | Premium e-commerce platform |
-| 02 | **RootnSpace** | <img src="assets/rootnspace.png" width="120" /> | SaaS | B2B | 2025 | Hostel management platform |
-| 03 | **Zara AI** | <img src="assets/zara-ai.png" width="120" /> | IoT / AI | HW+SW | 2025 | AI home automation |
-| 04 | **Chennai Tales** | <img src="assets/chennai-tales.png" width="120" /> | Brand | B2C | 2026 | Editorial brand platform |
-| 05 | **TT Dry Cleaning** | <img src="assets/tt-dry-cleaning.png" width="120" /> | Automation | B2C | 2026 | Booking & operations platform |
-| 06 | **TastyLens** | <img src="assets/tast_lens.png" width="120" /> | AR / VR | B2C | 2026 | AR-powered food ordering |
-| 07 | **Vihdya School** | <img src="assets/vihdya-school.png" width="120" />| Education | B2B | 2026 | School portfolio with LMS |
-| 08 | **Miox Studio** | <img src="assets/miox.png" width="120" />| E-commerce | B2C | 2026 | Gift e-commerce boutique |
-| 09 | **FinEcho** | <img src="assets/finecho.png" width="120" /> | Finance | B2C | 2026 | AI personal finance |
-| 10 | **AgriSmart** | <img src="assets/agrismart.png" width="120" /> | AgriTech | HW+SW | 2025 | Smart agriculture IoT |
-| 11 | **Kudumba Vault** | <img src="assets/kudumba-vault.png" width="120" /> | Consumer | B2C | 2025 | Family digital vault |
-| 12 | **BlockBuster** | <img src="assets/blockbuster.png" width="120" /> | Cybersecurity | B2B | 2025 | Blockchain security platform |
-| 13 | **HealthHub** | <img src="assets/healthhub.png" width="120" /> | Health | B2C | 2025 | Health monitoring platform |
-| 14 | **Aerosense AI** | <img src="assets/aero-sense-ai.png" width="120" /> | AI / Hardware | HW+SW | 2025 | Aerial sensing & drone AI |
-| 15 | **SmartBin** | <img src="assets/smartbin.png" width="120" /> | IoT / CV | HW+SW | 2025 | CV smart waste management |
-| 16 | **TamilGuard AI** | <img src="assets/tamilguard-ai.png" width="120" /> | Cybersecurity | B2B | 2025 | Regional cybersecurity AI |
-| 17 | **ReportX AI** | <img src="assets/reportX.png" width="120" /> | AI & ML | B2B | 2025 | Automated report generation |
-| 18 | **Red Dragon** | <img src="assets/red-dragon.png" width="120" /> | Agentic AI | B2B | 2025 | Multi-agent enterprise AI |
+| 01 | **Zayamazone** | <img src="../assets/zaymazone.png" width="120" /> | E-commerce | B2C | 2025 | Premium e-commerce platform |
+| 02 | **RootnSpace** | <img src="../assets/rootnspace.png" width="120" /> | SaaS | B2B | 2025 | Hostel management platform |
+| 03 | **Zara AI** | <img src="../assets/zara-ai.png" width="120" /> | IoT / AI | HW+SW | 2025 | AI home automation |
+| 04 | **Chennai Tales** | <img src="../assets/chennai-tales.png" width="120" /> | Brand | B2C | 2026 | Editorial brand platform |
+| 05 | **TT Dry Cleaning** | <img src="../assets/tt-dry-cleaning.png" width="120" /> | Automation | B2C | 2026 | Booking & operations platform |
+| 06 | **TastyLens** | <img src="../assets/tast_lens.png" width="120" /> | AR / VR | B2C | 2026 | AR-powered food ordering |
+| 07 | **Vihdya School** | <img src="../assets/vihdya-school.png" width="120" />| Education | B2B | 2026 | School portfolio with LMS |
+| 08 | **Miox Studio** | <img src="../assets/miox.png" width="120" />| E-commerce | B2C | 2026 | Gift e-commerce boutique |
+| 09 | **FinEcho** | <img src="../assets/finecho.png" width="120" /> | Finance | B2C | 2026 | AI personal finance |
+| 10 | **AgriSmart** | <img src="../assets/agrismart.png" width="120" /> | AgriTech | HW+SW | 2025 | Smart agriculture IoT |
+| 11 | **Kudumba Vault** | <img src="../assets/kudumba-vault.png" width="120" /> | Consumer | B2C | 2025 | Family digital vault |
+| 12 | **BlockBuster** | <img src="../assets/blockbuster.png" width="120" /> | Cybersecurity | B2B | 2025 | Blockchain security platform |
+| 13 | **HealthHub** | <img src="../assets/healthhub.png" width="120" /> | Health | B2C | 2025 | Health monitoring platform |
+| 14 | **Aerosense AI** | <img src="../assets/aero-sense-ai.png" width="120" /> | AI / Hardware | HW+SW | 2025 | Aerial sensing & drone AI |
+| 15 | **SmartBin** | <img src="../assets/smartbin.png" width="120" /> | IoT / CV | HW+SW | 2025 | CV smart waste management |
+| 16 | **TamilGuard AI** | <img src="../assets/tamilguard-ai.png" width="120" /> | Cybersecurity | B2B | 2025 | Regional cybersecurity AI |
+| 17 | **ReportX AI** | <img src="../assets/reportX.png" width="120" /> | AI & ML | B2B | 2025 | Automated report generation |
+| 18 | **Red Dragon** | <img src="../assets/red-dragon.png" width="120" /> | Agentic AI | B2B | 2025 | Multi-agent enterprise AI |
 
 ### 📈 Project Distribution
 
@@ -500,7 +500,7 @@ Automation     █░░░░ 1
 
 ---
 
-<img src="assets/thenam-logo.png" alt="Thenam" width="36" />
+<img src="../assets/thenam-logo.png" alt="Thenam" width="36" />
 
 **© 2026 Thenam Software Solutions. All rights reserved.**
 
